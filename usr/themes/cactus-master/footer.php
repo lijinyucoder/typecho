@@ -2,7 +2,7 @@
 <div class="mx-auto px3 my5">
  <footer id="footer" style="display:block;">
             <div class="footer-left">
-                Copyright © <?php echo date('Y'); ?> By <a href="http://www.typecho.org" target="_blank" rel="nofollow">Typecho</a> & <a href="http://www.xde.io" target="_blank">Xingr</a>
+                <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="nofollow">京ICP备20008371号</a>
             </div>
             <div class="footer-right">
                 <nav>
